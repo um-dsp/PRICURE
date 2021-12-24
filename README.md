@@ -1,5 +1,4 @@
-# PRICURE
-PRICURE: Privacy-Preserving Collaborative Inference in a Multi-Party Setting
+# PRICURE: Privacy-Preserving Collaborative Inference in a Multi-Party Setting
 
 Accompanying code for our paper: Ismat Jarin, Birhanu Eshete. [PRICURE: Privacy-Preserving Collaborative Inference in a Multi-Party Setting](https://arxiv.org/abs/2102.09751). *In 7th ACM International Workshop on Security and Privacy Analytics (IWSPA'21) co-located with ACM CODASPY'21*.
 
